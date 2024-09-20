@@ -9,7 +9,7 @@ docker compose down --rmi all --volumes
 
 ## MySQL
 ```
-mysql -u root -p
+mysql -u wpuser -p
 sudo mysql -u root -p
 ```
 
